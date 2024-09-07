@@ -1,0 +1,392 @@
+[
+    {
+        "name": "John Doe",
+        "prescriptions": [
+            {
+                "prescription_drug_name": "Amoxicillin",
+                "amount": "500 mg",
+                "instructions": "Take 1 tablet by mouth every 8 hours for 7 days. Swallow the tablet whole with a full glass of water. Do not crush or chew the tablet."
+            },
+            {
+                "prescription_drug_name": "Loratadine",
+                "amount": "10 mg",
+                "instructions": "Take 1 tablet by mouth once daily in the morning. May be taken with or without food."
+            }
+        ]
+    },
+    {
+        "name": "Jane Smith",
+        "prescriptions": [
+            {
+                "prescription_drug_name": "Lisinopril",
+                "amount": "10 mg",
+                "instructions": "Take 1 tablet by mouth once daily. Take with a glass of water. Do not take with grapefruit juice."
+            },
+            {
+                "prescription_drug_name": "Metformin",
+                "amount": "500 mg",
+                "instructions": "Take 1 tablet by mouth twice daily with meals. Swallow the tablet whole. Do not crush or chew."
+            }
+        ]
+    },
+    {
+        "name": "Michael Johnson",
+        "prescriptions": [
+            {
+                "prescription_drug_name": "Albuterol",
+                "amount": "2 mg",
+                "instructions": "Inhale 2 puffs every 4-6 hours as needed for asthma. Rinse your mouth with water after each use to prevent oral thrush."
+            },
+            {
+                "prescription_drug_name": "Omeprazole",
+                "amount": "20 mg",
+                "instructions": "Take 1 capsule by mouth once daily before a meal. Swallow the capsule whole. Do not crush or chew."
+            }
+        ]
+    },
+    {
+        "name": "Emily Davis",
+        "prescriptions": [
+            {
+                "prescription_drug_name": "Atorvastatin",
+                "amount": "40 mg",
+                "instructions": "Take 1 tablet by mouth once daily in the evening. Take with a full glass of water. Do not take with grapefruit juice."
+            },
+            {
+                "prescription_drug_name": "Levothyroxine",
+                "amount": "75 mcg",
+                "instructions": "Take 1 tablet by mouth once daily on an empty stomach. Wait at least 30 minutes before eating or drinking anything other than water."
+            }
+        ]
+    },
+    {
+        "name": "David Brown",
+        "prescriptions": [
+            {
+                "prescription_drug_name": "Gabapentin",
+                "amount": "300 mg",
+                "instructions": "Take 1 capsule by mouth three times daily. Swallow the capsule whole. Do not crush or chew."
+            },
+            {
+                "prescription_drug_name": "Hydrochlorothiazide",
+                "amount": "25 mg",
+                "instructions": "Take 1 tablet by mouth once daily in the morning. Take with a full glass of water."
+            }
+        ]
+    },
+    {
+        "name": "Sarah Wilson",
+        "prescriptions": [
+            {
+                "prescription_drug_name": "Citalopram",
+                "amount": "20 mg",
+                "instructions": "Take 1 tablet by mouth once daily in the morning. Swallow the tablet whole. Do not crush or chew."
+            },
+            {
+                "prescription_drug_name": "Prednisone",
+                "amount": "5 mg",
+                "instructions": "Take 1 tablet by mouth once daily in the morning. Swallow the tablet whole. Do not crush or chew."
+            }
+        ]
+    },
+    {
+        "name": "James Taylor",
+        "prescriptions": [
+            {
+                "prescription_drug_name": "Warfarin",
+                "amount": "5 mg",
+                "instructions": "Take 1 tablet by mouth once daily at the same time each day. Swallow the tablet whole. Do not crush or chew."
+            },
+            {
+                "prescription_drug_name": "Amlodipine",
+                "amount": "5 mg",
+                "instructions": "Take 1 tablet by mouth once daily. Swallow the tablet whole. Do not crush or chew."
+            }
+        ]
+    },
+    {
+        "name": "Olivia Martinez",
+        "prescriptions": [
+            {
+                "prescription_drug_name": "Fluoxetine",
+                "amount": "20 mg",
+                "instructions": "Take 1 capsule by mouth once daily in the morning. Swallow the capsule whole. Do not crush or chew."
+            },
+            {
+                "prescription_drug_name": "Losartan",
+                "amount": "50 mg",
+                "instructions": "Take 1 tablet by mouth once daily. Swallow the tablet whole. Do not crush or chew."
+            }
+        ]
+    },
+    {
+        "name": "William Anderson",
+        "prescriptions": [
+            {
+                "prescription_drug_name": "Montelukast",
+                "amount": "10 mg",
+                "instructions": "Take 1 tablet by mouth once daily in the evening. Swallow the tablet whole. Do not crush or chew."
+            },
+            {
+                "prescription_drug_name": "Doxycycline",
+                "amount": "100 mg",
+                "instructions": "Take 1 capsule by mouth twice daily for 10 days. Swallow the capsule whole. Do not crush or chew."
+            }
+        ]
+    },
+    {
+        "name": "Sophia Thomas",
+        "prescriptions": [
+            {
+                "prescription_drug_name": "Furosemide",
+                "amount": "40 mg",
+                "instructions": "Take 1 tablet by mouth once daily in the morning. Swallow the tablet whole. Do not crush or chew."
+            },
+            {
+                "prescription_drug_name": "Metoprolol",
+                "amount": "50 mg",
+                "instructions": "Take 1 tablet by mouth twice daily. Swallow the tablet whole. Do not crush or chew."
+            }
+        ]
+    },
+    {
+        "name": "Benjamin Jackson",
+        "prescriptions": [
+            {
+                "prescription_drug_name": "Escitalopram",
+                "amount": "10 mg",
+                "instructions": "Take 1 tablet by mouth once daily in the morning. Swallow the tablet whole. Do not crush or chew."
+            },
+            {
+                "prescription_drug_name": "Bupropion",
+                "amount": "150 mg",
+                "instructions": "Take 1 tablet by mouth once daily in the morning. Swallow the tablet whole. Do not crush or chew."
+            }
+        ]
+    },
+    {
+        "name": "Isabella White",
+        "prescriptions": [
+            {
+                "prescription_drug_name": "Trazodone",
+                "amount": "50 mg",
+                "instructions": "Take 1 tablet by mouth at bedtime as needed for sleep. Swallow the tablet whole. Do not crush or chew."
+            },
+            {
+                "prescription_drug_name": "Pantoprazole",
+                "amount": "40 mg",
+                "instructions": "Take 1 tablet by mouth once daily before a meal. Swallow the tablet whole. Do not crush or chew."
+            }
+        ]
+    },
+    {
+        "name": "Daniel Harris",
+        "prescriptions": [
+            {
+                "prescription_drug_name": "Clonazepam",
+                "amount": "0.5 mg",
+                "instructions": "Take 1 tablet by mouth twice daily as needed for anxiety. Swallow the tablet whole. Do not crush or chew."
+            },
+            {
+                "prescription_drug_name": "Simvastatin",
+                "amount": "20 mg",
+                "instructions": "Take 1 tablet by mouth once daily in the evening. Swallow the tablet whole. Do not crush or chew."
+            }
+        ]
+    },
+    {
+        "name": "Mia Clark",
+        "prescriptions": [
+            {
+                "prescription_drug_name": "Venlafaxine",
+                "amount": "75 mg",
+                "instructions": "Take 1 tablet by mouth once daily in the morning. Swallow the tablet whole. Do not crush or chew."
+            },
+            {
+                "prescription_drug_name": "Carvedilol",
+                "amount": "6.25 mg",
+                "instructions": "Take 1 tablet by mouth twice daily. Swallow the tablet whole. Do not crush or chew."
+            }
+        ]
+    },
+    {
+        "name": "Alexander Lewis",
+        "prescriptions": [
+            {
+                "prescription_drug_name": "Paroxetine",
+                "amount": "20 mg",
+                "instructions": "Take 1 tablet by mouth once daily in the morning. Swallow the tablet whole. Do not crush or chew."
+            },
+            {
+                "prescription_drug_name": "Nifedipine",
+                "amount": "30 mg",
+                "instructions": "Take 1 tablet by mouth twice daily. Swallow the tablet whole. Do not crush or chew."
+            }
+        ]
+    },
+    {
+        "name": "Charlotte Lee",
+        "prescriptions": [
+            {
+                "prescription_drug_name": "Albuterol",
+                "amount": "2 mg",
+                "instructions": "Inhale 2 puffs every 4-6 hours as needed for asthma. Rinse your mouth with water after each use to prevent oral thrush."
+            },
+            {
+                "prescription_drug_name": "Omeprazole",
+                "amount": "20 mg",
+                "instructions": "Take 1 capsule by mouth once daily before a meal. Swallow the capsule whole. Do not crush or chew."
+            }
+        ]
+    },
+    {
+        "name": "Henry Walker",
+        "prescriptions": [
+            {
+                "prescription_drug_name": "Atorvastatin",
+                "amount": "40 mg",
+                "instructions": "Take 1 tablet by mouth once daily in the evening. Take with a full glass of water. Do not take with grapefruit juice."
+            },
+            {
+                "prescription_drug_name": "Levothyroxine",
+                "amount": "75 mcg",
+                "instructions": "Take 1 tablet by mouth once daily on an empty stomach. Wait at least 30 minutes before eating or drinking anything other than water."
+            }
+        ]
+    },
+    {
+        "name": "Amelia Hall",
+        "prescriptions": [
+            {
+                "prescription_drug_name": "Gabapentin",
+                "amount": "300 mg",
+                "instructions": "Take 1 capsule by mouth three times daily. Swallow the capsule whole. Do not crush or chew."
+            },
+            {
+                "prescription_drug_name": "Hydrochlorothiazide",
+                "amount": "25 mg",
+                "instructions": "Take 1 tablet by mouth once daily in the morning. Take with a full glass of water."
+            }
+        ]
+    },
+    {
+        "name": "Joseph Allen",
+        "prescriptions": [
+            {
+                "prescription_drug_name": "Citalopram",
+                "amount": "20 mg",
+                "instructions": "Take 1 tablet by mouth once daily in the morning. Swallow the tablet whole. Do not crush or chew."
+            },
+            {
+                "prescription_drug_name": "Prednisone",
+                "amount": "5 mg",
+                "instructions": "Take 1 tablet by mouth once daily in the morning. Swallow the tablet whole. Do not crush or chew."
+            }
+        ]
+    },
+    {
+        "name": "Grace Young",
+        "prescriptions": [
+            {
+                "prescription_drug_name": "Warfarin",
+                "amount": "5 mg",
+                "instructions": "Take 1 tablet by mouth once daily at the same time each day. Swallow the tablet whole. Do not crush or chew."
+            },
+            {
+                "prescription_drug_name": "Amlodipine",
+                "amount": "5 mg",
+                "instructions": "Take 1 tablet by mouth once daily. Swallow the tablet whole. Do not crush or chew."
+            }
+        ]
+    },
+    {
+        "name": "Samuel Hernandez",
+        "prescriptions": [
+            {
+                "prescription_drug_name": "Fluoxetine",
+                "amount": "20 mg",
+                "instructions": "Take 1 capsule by mouth once daily in the morning. Swallow the capsule whole. Do not crush or chew."
+            },
+            {
+                "prescription_drug_name": "Losartan",
+                "amount": "50 mg",
+                "instructions": "Take 1 tablet by mouth once daily. Swallow the tablet whole. Do not crush or chew."
+            }
+        ]
+    },
+    {
+        "name": "Chloe King",
+        "prescriptions": [
+            {
+                "prescription_drug_name": "Montelukast",
+                "amount": "10 mg",
+                "instructions": "Take 1 tablet by mouth once daily in the evening. Swallow the tablet whole. Do not crush or chew."
+            },
+            {
+                "prescription_drug_name": "Doxycycline",
+                "amount": "100 mg",
+                "instructions": "Take 1 capsule by mouth twice daily for 10 days. Swallow the capsule whole. Do not crush or chew."
+            }
+        ]
+    },
+    {
+        "name": "Matthew Wright",
+        "prescriptions": [
+            {
+                "prescription_drug_name": "Furosemide",
+                "amount": "40 mg",
+                "instructions": "Take 1 tablet by mouth once daily in the morning. Swallow the tablet whole. Do not crush or chew."
+            },
+            {
+                "prescription_drug_name": "Metoprolol",
+                "amount": "50 mg",
+                "instructions": "Take 1 tablet by mouth twice daily. Swallow the tablet whole. Do not crush or chew."
+            }
+        ]
+    },
+    {
+        "name": "Lily Scott",
+        "prescriptions": [
+            {
+                "prescription_drug_name": "Escitalopram",
+                "amount": "10 mg",
+                "instructions": "Take 1 tablet by mouth once daily in the morning. Swallow the tablet whole. Do not crush or chew."
+            },
+            {
+                "prescription_drug_name": "Bupropion",
+                "amount": "150 mg",
+                "instructions": "Take 1 tablet by mouth once daily in the morning. Swallow the tablet whole. Do not crush or chew."
+            }
+        ]
+    },
+    {
+        "name": "Andrew Green",
+        "prescriptions": [
+            {
+                "prescription_drug_name": "Trazodone",
+                "amount": "50 mg",
+                "instructions": "Take 1 tablet by mouth at bedtime as needed for sleep. Swallow the tablet whole. Do not crush or chew."
+            },
+            {
+                "prescription_drug_name": "Pantoprazole",
+                "amount": "40 mg",
+                "instructions": "Take 1 tablet by mouth once daily before a meal. Swallow the tablet whole. Do not crush or chew."
+            }
+        ]
+    },
+    {
+        "name": "Zoe Baker",
+        "prescriptions": [
+            {
+                "prescription_drug_name": "Clonazepam",
+                "amount": "0.5 mg",
+                "instructions": "Take 1 tablet by mouth twice daily as needed for anxiety. Swallow the tablet whole. Do not crush or chew."
+            },
+            {
+                "prescription_drug_name": "Simvastatin",
+                "amount": "20 mg",
+                "instructions": "Take 1 tablet by mouth once daily in the evening. Swallow the tablet whole. Do not crush or chew."
+            }
+        ]
+    }
+]

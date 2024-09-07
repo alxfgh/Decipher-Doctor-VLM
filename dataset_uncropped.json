@@ -1,0 +1,842 @@
+[
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_gray_rot0.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_gray_rot1.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_gray_rot2.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_gray_rot3.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_gray_rot4.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_gray_rot5.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_gray_rot6.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_gray_rot7.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_gray_rot8.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_gray_rot9.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_viridis_rot0.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_viridis_rot1.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_viridis_rot2.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_viridis_rot3.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_viridis_rot4.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_viridis_rot5.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_viridis_rot6.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_viridis_rot7.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_viridis_rot8.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_viridis_rot9.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_plasma_rot0.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_plasma_rot1.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_plasma_rot2.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_plasma_rot3.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_plasma_rot4.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_plasma_rot5.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_plasma_rot6.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_plasma_rot7.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_plasma_rot8.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_plasma_rot9.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_inferno_rot0.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_inferno_rot1.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_inferno_rot2.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_inferno_rot3.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_inferno_rot4.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_inferno_rot5.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_inferno_rot6.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_inferno_rot7.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_inferno_rot8.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_inferno_rot9.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_magma_rot0.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_magma_rot1.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_magma_rot2.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_magma_rot3.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_magma_rot4.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_magma_rot5.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_magma_rot6.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_magma_rot7.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_magma_rot8.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_magma_rot9.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_cividis_rot0.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_cividis_rot1.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_cividis_rot2.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_cividis_rot3.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_cividis_rot4.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_cividis_rot5.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_cividis_rot6.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_cividis_rot7.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_cividis_rot8.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow\nthe tablet whole\nwith a full glass of\nwater Do not crush\nor chew the tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_1_cividis_rot9.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_gray_rot0.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_gray_rot1.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_gray_rot2.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_gray_rot3.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_gray_rot4.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_gray_rot5.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_gray_rot6.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_gray_rot7.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_gray_rot8.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_gray_rot9.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_viridis_rot0.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_viridis_rot1.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_viridis_rot2.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_viridis_rot3.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_viridis_rot4.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_viridis_rot5.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_viridis_rot6.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_viridis_rot7.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_viridis_rot8.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_viridis_rot9.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_plasma_rot0.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_plasma_rot1.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_plasma_rot2.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_plasma_rot3.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_plasma_rot4.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_plasma_rot5.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_plasma_rot6.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_plasma_rot7.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_plasma_rot8.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_plasma_rot9.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_inferno_rot0.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_inferno_rot1.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_inferno_rot2.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_inferno_rot3.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_inferno_rot4.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_inferno_rot5.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_inferno_rot6.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_inferno_rot7.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_inferno_rot8.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_inferno_rot9.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_magma_rot0.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_magma_rot1.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_magma_rot2.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_magma_rot3.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_magma_rot4.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_magma_rot5.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_magma_rot6.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_magma_rot7.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_magma_rot8.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_magma_rot9.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_cividis_rot0.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_cividis_rot1.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_cividis_rot2.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_cividis_rot3.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_cividis_rot4.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_cividis_rot5.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_cividis_rot6.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_cividis_rot7.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_cividis_rot8.png"
+        ]
+    },
+    {
+        "query": "<image>what does this say?",
+        "response": "John Doe\nAmoxicillin 500 mg\nTake 1 tablet by\nmouth every 8 hours\nfor 7 days Swallow the\ntablet whole with a\nfull glass of water\nDo not crush or chew\nthe tablet",
+        "images": [
+            "dataset_uncropped/synthetic_image_2_cividis_rot9.png"
+        ]
+    }
+]
