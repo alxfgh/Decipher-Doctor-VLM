@@ -18,9 +18,9 @@ We're actively looking for compute resources to accelerate our synthetic data ge
 
 Alexander Al-Feghali - alexander.al-feghali@mail.mcgill.ca
 
-Project Link: [https://github.com/yourusername/doctor-handwriting-reader](https://github.com/yourusername/doctor-handwriting-reader)
+Website: [Decipher.Doctor](https://decipher.doctor)
 
-Blog: [Doctor Handwriting Reader](https://doctorhandwritingreaderdotcom)
+Blog: [Doctor Handwriting Reader](https://doctorhandwritingreader.com)
 
 ## Acknowledgements
 
